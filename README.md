@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning Python, Deno, React Native and Docker.
 - 💬 Ask me about anything related to Javascript/Typescript/Node/Angular/React/RxJS
 - 📫 How to reach me: [@MohamedBasit](https://twitter.com/MohamedBasit5)
-- ⚡ Fun fact: I :heart: bikes:bike
+- ⚡ Fun fact: I :heart: :bike:s
 
 ### Connect with me:
 
