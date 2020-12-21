@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi all 👋
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
