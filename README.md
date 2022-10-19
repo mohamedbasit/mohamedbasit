@@ -2,7 +2,7 @@
 ## 🧔 About Me
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on something cool :wink:
+- 🔭 I’m currently working on myself :wink:
 - 🌱 I’m currently learning Python, Deno, React Native and Docker.
 - 💬 Ask me about anything related to Javascript/Typescript/Node/Angular/React/RxJS
 - 📫 How to reach me: [@MohamedBasit](https://twitter.com/MohamedBasit5)
